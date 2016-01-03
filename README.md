@@ -1,14 +1,20 @@
 
-# Awesome Cheat Sheets
+# Awesome Cheat Sheets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Awesome Cheat Sheets for **Developer Utility**, like Git, Vim, Tmux, Sublime Text, Markdown, Shell.
+
+> Awesome Cheat Sheets for **Developer Utility**, like [Git](#git), [Vim](#vim)
+, [Tmux](#tmux), [Sublime Text](#sublime text), [Markdown](#markdown), [Shell](#shell).
+
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+
+**Check out my [blog](mintisan.github.io) 🦄 or say *hi* on [Twitter](https://twitter.com/mintisan).**
 
 ## Table of Contents
 
 - [Git](#git)
 - [Vim](#vim)
 - [Tmux](#tmux)
-- [Sublime Text](#sublimetext)
+- [Sublime Text](#sublime text)
 - [Markdown](#markdown)
 - [Shell](#shell)
 
@@ -158,6 +164,13 @@
 - [Cheat-Sheets.org](http://www.cheat-sheets.org/) : All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page. 
 - [CheatSheet App for Mac OS X](https://www.mediaatelier.com/CheatSheet/) : Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application. It's as simple as that.
 
------------
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Awesome Cheat Sheets</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://mintisan.github.io/" property="cc:attributionName" rel="cc:attributionURL">Ted Lin</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mintisan/awesome-cheat-sheets" rel="dct:source">https://github.com/mintisan/awesome-cheat-sheets</a>.
