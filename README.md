@@ -3,7 +3,7 @@
 
 
 > Awesome Cheat Sheets for **Developer Utility**, like [Git](#git), [Vim](#vim)
-, [Tmux](#tmux), [Sublime Text](#sublime text), [Markdown](#markdown), [Shell](#shell).
+, [Tmux](#tmux), [SublimeText](#sublimetext), [Markdown](#markdown), [Shell](#shell).
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Git](#git)
 - [Vim](#vim)
 - [Tmux](#tmux)
-- [Sublime Text](#sublime text)
+- [SublimeText](#sublime text)
 - [Markdown](#markdown)
 - [Shell](#shell)
 
@@ -63,7 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ![](./attach/vim-cheat-sheet-en.png)
 
-## [Sublime Text](http://www.sublimetext.com/)
+## [SublimeText](http://www.sublimetext.com/)
 
 - [Sublime Text Keyboard Shortcut Cheat Sheet by Chris Simpkins](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/)
 
