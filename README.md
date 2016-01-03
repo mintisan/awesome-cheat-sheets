@@ -7,7 +7,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-**Check out my [blog](mintisan.github.io) 🦄 or say *hi* on [Twitter](https://twitter.com/mintisan).**
+**Check out my [blog](http://mintisan.github.io) 🦄 or say *hi* on [Twitter](https://twitter.com/mintisan).**
 
 ## Table of Contents
 
