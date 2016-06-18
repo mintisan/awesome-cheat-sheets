@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SublimeText](#sublime text)
 - [Markdown](#markdown)
 - [Shell](#shell)
+- [Python](#python)
 
 ## [Git](https://git-scm.com/)
 
@@ -154,6 +155,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Terminal Mac Cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 
 - [GREP Cheat Sheet by Erica Gamet](http://www.ericagamet.com/wp-content/uploads/2011/11/Erica-Gamets-GREP-Cheat-Sheet.pdf) : [[PDF Download]](http://www.ericagamet.com/wp-content/uploads/2011/11/Erica-Gamets-GREP-Cheat-Sheet.pdf)
+
+## Python
+
+- [NumPy for MATLAB users](http://mathesaurus.sourceforge.net/matlab-numpy.html)
+- [Numpy for Matlab users](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html)
+- [Python & Pylab Cheat Sheet](http://www.physik.uzh.ch/lectures/informatik/python/res/pyrefcard.pdf)
+
 
 ## Complement
 
