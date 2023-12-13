@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Git](#git)
 - [Vim](#vim)
 - [Tmux](#tmux)
-- [SublimeText](#sublime text)
+- [SublimeText](#sublimetext)
 - [Markdown](#markdown)
 - [Shell](#shell)
 - [Python](#python)
@@ -25,10 +25,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ![](./attach/git_cheat_sheet.jpg)
 
-- [Tower Git Cheat Sheet by Tobias Günther](http://www.git-tower.com/blog/git-cheat-sheet/) : [[PDF Download]](http://www.git-tower.com/blog/posts/git-cheat-sheet/git-cheat-sheet.zip)
+- [Tower Git Cheat Sheet by Tobias Günther](https://www.git-tower.com/blog/git-cheat-sheet/) : [[PDF Download]](https://www.git-tower.com/blog/git-cheat-sheet/)
 
-![](./attach/git-cheat-sheet-large01.png)
-
+![git-cheat-sheet](https://github.com/tomaslau/awesome-cheat-sheets/assets/1141740/31b830d7-a9ad-4da7-84c7-8114064434a7)
 
 - [Git CheetSheet from an interaction from NDP Software by Andrew Peterson](http://www.ndpsoftware.com/git-cheatsheet.html)
 
@@ -102,6 +101,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ![](./attach/tmux-cheat-sheet.png)
 
 ## [Markdown](https://daringfireball.net/projects/markdown/)
+
+- [Markdown Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/markdown)
 
 - [Markdown Cheatsheet from markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
