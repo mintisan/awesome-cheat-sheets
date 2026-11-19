@@ -46,6 +46,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Git Cheat Sheet - git-flow](https://github.com/arslanbilal/git-cheat-sheet) : Git cheat sheet saves you from learning all the commands by heart.
 
+- [Git Commands](https://gitcommands.si/) : A searchable reference of 233 Git commands explained in plain English, grouped by task. [[PDF Download]](https://gitcommands.si/git-cheat-sheet.pdf)
+
 ## [Vim](http://www.vim.org/)
 
 - [Graphical vi-vim Cheat Sheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html) : [[PDF Download]](http://www.glump.net/files/2012/08/vi-vim-cheat-sheet-and-tutorial.pdf)
